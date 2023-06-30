@@ -94,7 +94,7 @@ header {
   flex-direction: column;
   justify-content: center;
   padding-top: 48px;
-  background-image: url("../mango-tree.webp");
+  background-image: url("https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/mango-tree.webp");
   background-position: top center;
   background-size: cover;
 }
